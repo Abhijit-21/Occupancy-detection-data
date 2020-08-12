@@ -8,7 +8,7 @@ Description of the data columns(units etc).
 The scripts to reproduce exploratory figures.
 The scripts for model training.
 The commands for model testing.
-Also note that when training and testing the models you have to use the seed command to ensure reproducibility.
+
 There may be small variations in the reported accuracy.
 Please read the commented lines in the model development file. Install all the packages dependencies before trying to train and test the models.
 
@@ -16,4 +16,4 @@ It is advised to execute each command one by one in case you find any errors/war
 
 Please do not forget to cite the publication! Thank you!
 
-Keywords: Linear discriminant analysis, Classification and Regression Trees, Random forests, energy conservation in buildings, occupancy detection, GBM models. R, Rstudio, Caret, ggplot2
+
